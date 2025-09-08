@@ -1,0 +1,17 @@
+# Bioinformatics
+biopython
+pandas
+numpy
+scikit-bio
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Web Development
+flask
+django
+requests
+beautifulsoup4
